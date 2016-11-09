@@ -1,0 +1,1 @@
+Thanks for purchasing our theme, if you need helps check documentation in package. If you didn't find solution contact us via our profile page or throught our support forum.

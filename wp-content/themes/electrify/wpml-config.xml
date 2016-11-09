@@ -1,0 +1,27 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">pix_portfolio</custom-type>
+        <custom-type translate="1">pix_staffs</custom-type>
+        <custom-type translate="1">pix_testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">pix_jobs</taxonomy>
+        <taxonomy translate="1">pix_categories</taxonomy>
+    </taxonomies>
+    <admin-texts>
+	<key name="theme_mods_electrify">
+		<key name="search_text" />
+		<key name="b_title" />
+		<key name="b_breadcrumbs" />
+		<key name="s_author_t" />
+		<key name="s_related_t" />
+		<key name="s_comment_t" />
+		<key name="s_comment_form_t" />
+		<key name="s_comment_form_btn_t" />
+		<key name="error_t" />
+		<key name="f_copyright_t" />
+	</key>
+    </admin-texts>
+</wpml-config>
+
+
